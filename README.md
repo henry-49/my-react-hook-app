@@ -17,6 +17,7 @@ To use this project [Clone React Hook App](https://github.com/henry-49/my-react-
 
 CD to project directory, then run:
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
