@@ -1,10 +1,21 @@
-# Getting Started with Create React App
+# My React Hook App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To use this project [Clone React Hook App](https://github.com/henry-49/my-react-hook-app).
 
+## Examples used on the project
+
+1 | UseState
+2 | UseReducer
+3 | UseEffect
+4 | UseRef
+5 | UseLayoutEffect
+6 | UseImperativeHandle
+7 | UseContext
+8 | UseMemo
+9 | UseCallback
 ## Available Scripts
 
-In the project directory, you can run:
+CD to project directory, then run:
 
 ### `npm start`
 
